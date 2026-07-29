@@ -16,6 +16,7 @@ Repositorio donde documentaré mi aprendizaje del curso:
 - ✅ Configuración inicial del repositorio.
 - ✅ Primeros pasos con Git y GitHub.
 - ✅ Introducción al curso y proyectos a construir.
+- 🔄 Introducción a Node.js.
 - ⏳ Desarrollo del proyecto DevTree.
 
 ## 🚀 Proyectos del curso
