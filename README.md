@@ -35,35 +35,6 @@ Tecnologías utilizadas:
 Estado:
 🔨 En desarrollo
 
-### 💰 CashTrackr
-
-Proyecto Full Stack enfocado en la gestión y seguimiento financiero.
-
-Tecnologías:
-
-- Express
-- Node.js
-- TypeScript
-- PostgreSQL
-- Next.js
-
-Estado:
-⏳ Pendiente de desarrollo
-
-### 🏪 Point of Sale (POS)
-
-Proyecto Full Stack para desarrollar un sistema de punto de venta.
-
-Tecnologías:
-
-- NestJS
-- TypeScript
-- PostgreSQL
-- Next.js
-
-Estado:
-⏳ Pendiente de desarrollo
-
 ## 📝 Notas
 
 Este repositorio contiene mis ejercicios, proyectos y apuntes realizados durante mi aprendizaje de desarrollo Full Stack.
