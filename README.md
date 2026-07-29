@@ -2,7 +2,7 @@
 
 Repositorio donde documentaré mi aprendizaje del curso:
 
-**Full Stack Node.js React TS NestJS Next.js Creando Proyectos de Juan de la Torre**
+**Full Stack Node.js React TS NestJS Next.js Creando Proyectos**
 
 ## 🎯 Objetivos
 
@@ -20,3 +20,9 @@ Repositorio donde documentaré mi aprendizaje del curso:
 ## 📝 Notas
 
 Este repositorio contiene mis ejercicios, proyectos y apuntes realizados durante mi aprendizaje de desarrollo Full Stack.
+
+## 🛠️ Herramientas utilizadas
+
+- Git
+- GitHub
+- Visual Studio Code
