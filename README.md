@@ -1,27 +1,27 @@
-# 🚀 Full Stack Learning
+# Full Stack Learning
 
 Repositorio donde documentaré mi aprendizaje del curso:
 
 **Full Stack Node.js React TS NestJS Next.js Creando Proyectos**
 
-## 🎯 Objetivos
+## Objetivos
 
 - Aprender Desarrollo Full Stack.
 - Aprender Git y GitHub.
 - Crear proyectos reales.
 - Construir un portafolio profesional.
 
-## 📚 Progreso del curso
+## Progreso del curso
 
-- ✅ Configuración inicial del repositorio.
-- ✅ Primeros pasos con Git y GitHub.
-- ✅ Introducción a Node.js.
-- 🔄 DevTree - Primeros pasos.
-- ⏳ Desarrollo del backend con Express y TypeScript.
+- Configuración inicial del repositorio.
+- Primeros pasos con Git y GitHub.
+- Introducción a Node.js.
+- DevTree - Primeros pasos.
+- Desarrollo del backend con Express y TypeScript.
 
-## 🚀 Proyectos del curso
+## Proyectos del curso
 
-### 🌳 DevTree
+### DevTree
 
 Proyecto Full Stack para crear una aplicación de enlaces personales.
 
@@ -33,13 +33,13 @@ Tecnologías utilizadas:
 - React con Vite
 
 Estado:
-🔨 En desarrollo
+En desarrollo
 
-## 📝 Notas
+## Notas
 
 Este repositorio contiene mis ejercicios, proyectos y apuntes realizados durante mi aprendizaje de desarrollo Full Stack.
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - Git
 - GitHub
