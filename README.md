@@ -37,7 +37,7 @@ En desarrollo
 
 ## Notas
 
-Este repositorio contiene mis ejercicios, proyectos y apuntes realizados durante mi aprendizaje de desarrollo Full Stack.
+Este repositorio contiene mis ejercicios, apuntes y errores realizados durante mi aprendizaje de desarrollo con el proyecto Full Stack.
 
 ## Herramientas utilizadas
 
