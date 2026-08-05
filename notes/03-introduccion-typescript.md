@@ -1,4 +1,4 @@
-# Sección 4 - Introducción a TypeScript
+# Introducción a TypeScript
 
 ## Objetivo de la sección
 
